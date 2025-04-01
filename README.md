@@ -11,6 +11,14 @@ To learn more before you start working with `icpmarket`, see the following docum
 - [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
 
+
+
+Unzip all the zip files in the project 
+```bash
+cd icpmarket/
+npm install
+```
+
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
